@@ -1,0 +1,5 @@
+﻿  TP0.cpp
+D:\Pierre\Documents\Cours\RA\TP0\TP0\TP0.cpp(15,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+D:\Pierre\Documents\Cours\RA\TP0\TP0\TP0.cpp(72,13): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\Pierre\Documents\Cours\RA\TP0\TP0\TP0.cpp(73,13): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  TP0.vcxproj -> D:\Pierre\Documents\Cours\RA\TP0\x64\Debug\TP0.exe
